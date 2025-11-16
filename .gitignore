@@ -7,3 +7,5 @@
 !.gitignore
 
 *notes.pdf
+
+!README.md
